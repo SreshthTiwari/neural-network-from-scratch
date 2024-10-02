@@ -1,6 +1,4 @@
-# Basic Neural Network from Scratch in Python
-
-## About
+# Neural Network from Scratch in Python
 
 This a simple MLP (Multilayer Perceptron) built from scratch to help deepen my understanding of Neural Networks.
 
